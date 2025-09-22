@@ -1,9 +1,8 @@
 # Armazenamento na Nuvem com Amazon EBS e S3
 
-Revisado: No
-Tags: Santander Code Girls - 2025
 Data: September 22, 2025
-Website: aws.amazon.com/pt/s3/storage-classes/#topic-3
+
+Website: https://aws.amazon.com/pt/s3/storage-classes/#topic-3
 
 ## Amazon EBS (Elastic Block Store)
 

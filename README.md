@@ -13,12 +13,12 @@ O programa aborda um amplo conjunto de **tecnologias e serviços AWS**, desde fu
 
 ## 📚 Lab Projects  
 
-| Projeto / Desafio | Descrição | Link |
+| Desafio | Descrição | Link |
 |-------------------|-----------|------|
-| **Lab Project:** Gerenciando Instâncias EC2 na AWS | Criação de um **diagrama de arquitetura** envolvendo EC2, EBS, S3 e Lambda | [Link do desafio](./Desafios/Gerenciando%20Instâncias%20EC2/Diagrama%20AWS%20-%20EC2.png) |
-| **Lab Project:** Implementando Infraestrutura Automatizada com AWS CloudFormation | Criação e gerenciamento de recursos com templates | A fazer |
-| **Lab Project:** Explorando Workflows Automatizados com AWS Step Functions | Orquestração de serviços e processos | A fazer |
-| **Lab Project:** Executando Tarefas Automatizadas com Lambda Function e S3 | Integração de eventos do S3 com Lambda | A fazer |
+| Gerenciando Instâncias EC2 na AWS | Criação de um **diagrama de arquitetura** envolvendo EC2, EBS, S3 e Lambda | [Link do desafio](./Desafios/Gerenciando%20Instâncias%20EC2/Diagrama%20AWS%20-%20EC2.png) |
+| Implementando Infraestrutura Automatizada com AWS CloudFormation | Criação e gerenciamento de recursos com templates | A fazer |
+| Explorando Workflows Automatizados com AWS Step Functions | Orquestração de serviços e processos | A fazer |
+| Executando Tarefas Automatizadas com Lambda Function e S3 | Integração de eventos do S3 com Lambda | A fazer |
 
 ## 🛠️ Tecnologias e Serviços Abordados  
 
