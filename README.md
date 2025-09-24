@@ -61,4 +61,4 @@ O programa aborda um amplo conjunto de **tecnologias e serviços AWS**, desde fu
 
 ## 📝 Anotações  
 
-📎 [Clique aqui para acessar minhas anotações detalhadas](Anotações/Menu.md) sobre os principais tópicos e conceitos abordados em cada módulo do bootcamp.
+📎 [Clique aqui para acessar minhas anotações detalhadas](Anotações/README.md) sobre os principais tópicos e conceitos abordados em cada módulo do bootcamp.
