@@ -1,0 +1,46 @@
+{
+    "Customers": [       
+        {
+            "PutRequest": {
+                "Item": {
+                    "CustomerId": {"N": "101"},
+                    "Name": {"S": "Dave Jones"},
+                    "City": {"S": "Phoenix"},
+                    "State": {"S": "AZ"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "CustomerId": {"N": "102"},
+                    "Name": {"S": "John Smith"},
+                    "City": {"S": "San Diego"},
+                    "State": {"S": "CA"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "CustomerId": {"N": "103"},
+                    "Name": {"S": "Fred Miller"},
+                    "City": {"S": "Seatle"},
+                    "State": {"S": "WA"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "CustomerId": {"N": "104"},
+                    "Name": {"S": "Samantha Brown"},
+                    "City": {"S": "São Paulo"},
+                    "State": {"S": "SP"},
+                    "Car": {"S": "RAM"},
+                    "Job": {"S": "DevOps"}
+                }
+            }
+        }
+    ]
+}
