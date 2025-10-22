@@ -10,7 +10,7 @@ Aqui estão minhas anotações organizadas por tópicos abordados no bootcamp:
 
 📁 [Redes na AWS](./RedesNaAWS/readme.md)
 
-📂 [Banco de Dados na AWS]()
+📁 [Banco de Dados na AWS](./BancoDeDadosAWS/readme.md)
 
 📂 [Serviços de Armazenamento e CDN]()
 
