@@ -12,7 +12,7 @@ Aqui estão minhas anotações organizadas por tópicos abordados no bootcamp:
 
 📁 [Banco de Dados na AWS](./BancoDeDadosAWS/readme.md)
 
-📂 [Serviços de Armazenamento e CDN]()
+📁 [Serviços de Armazenamento e CDN](./ServicosDeArmazenamento/readme.md)
 
 📂 [Serviços Intermediários e Avançados]()
 
