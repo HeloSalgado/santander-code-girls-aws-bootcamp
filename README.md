@@ -17,7 +17,7 @@ O programa aborda um amplo conjunto de **tecnologias e serviços AWS**, desde fu
 |-------------------|-----------|------|
 | Gerenciando Instâncias EC2 na AWS | Criação de um **diagrama de arquitetura** envolvendo EC2, EBS, S3 e Lambda | [Link do desafio](./Desafios%20e%20Exercicios/Gerenciando%20Instâncias%20EC2/Diagrama%20AWS%20-%20EC2.png) |
 | Site estático com um resumo profissional que será hospedado no Amazon S3 | Aplicando conceitos do Git, Front-end e alteração de políticas do bucket (deixando público) | [Link do exercício](https://desafioawsantander.s3.us-east-1.amazonaws.com/Resumo+Profissional/index.html)
-| Implementando Infraestrutura Automatizada com AWS CloudFormation | Criação e gerenciamento de recursos com templates | A fazer |
+| Implementando Infraestrutura Automatizada com AWS CloudFormation | Criação e gerenciamento de recursos com templates | [Link do desafio](./Anotações/GerenciamentoESeguranca/aws-cloudformation/Implementando%20sua%20Primeira%20Stack%20com%20AWS%20CloudFormation.md) |
 | Explorando Workflows Automatizados com AWS Step Functions | Orquestração de serviços e processos | [Link do desafio](./Anotações/ServicosIntermediarios/aws-step-functions/Explorando%20Workflows%20Automatizados%20com%20AWS%20Step%20Functions.md) |
 | Executando Tarefas Automatizadas com Lambda Function e S3 | Integração de eventos do S3 com Lambda | A fazer |
 
