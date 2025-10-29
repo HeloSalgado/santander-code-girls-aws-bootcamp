@@ -4,7 +4,7 @@ Estudo em: October 29, 2025
 
 Ele é um serviço de fluxo de trabalho *serverless* (sem servidor) que permite criar aplicativos distribuídos, automatizar processos e orquestrar microsserviços usando fluxos de trabalho visuais.
 
-### Principai conceitos
+### Principais conceitos
 
 | **Conceito** | **Explicação** |
 | --- | --- |
