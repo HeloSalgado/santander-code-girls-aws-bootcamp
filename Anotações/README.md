@@ -14,7 +14,7 @@ Aqui estão minhas anotações organizadas por tópicos abordados no bootcamp:
 
 📁 [Serviços de Armazenamento e CDN](./ServicosDeArmazenamento/readme.md)
 
-📂 [Serviços Intermediários e Avançados]()
+📁 [Serviços Intermediários e Avançados](./ServicosIntermediarios/readme.md)
 
 📂 [Gerenciamento e Governança na AWS]()
 
