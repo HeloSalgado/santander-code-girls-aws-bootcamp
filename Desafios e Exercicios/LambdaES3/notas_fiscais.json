@@ -1,0 +1,62 @@
+[
+    {
+        "id": "NF-1",
+        "cliente": "Eduardo Lima",
+        "valor": 4181.6,
+        "data_emissao": "2025-11-01"
+    },
+    {
+        "id": "NF-2",
+        "cliente": "Eduardo Lima",
+        "valor": 1572.15,
+        "data_emissao": "2025-10-21"
+    },
+    {
+        "id": "NF-3",
+        "cliente": "Bruno Souza",
+        "valor": 1042.39,
+        "data_emissao": "2025-10-05"
+    },
+    {
+        "id": "NF-4",
+        "cliente": "Carla Pereira",
+        "valor": 4904.62,
+        "data_emissao": "2025-10-04"
+    },
+    {
+        "id": "NF-5",
+        "cliente": "Ana Silva",
+        "valor": 703.88,
+        "data_emissao": "2025-10-18"
+    },
+    {
+        "id": "NF-6",
+        "cliente": "Daniel Costa",
+        "valor": 2888.06,
+        "data_emissao": "2025-10-03"
+    },
+    {
+        "id": "NF-7",
+        "cliente": "Carla Pereira",
+        "valor": 779.95,
+        "data_emissao": "2025-10-09"
+    },
+    {
+        "id": "NF-8",
+        "cliente": "Ana Silva",
+        "valor": 1744.23,
+        "data_emissao": "2025-10-06"
+    },
+    {
+        "id": "NF-9",
+        "cliente": "Eduardo Lima",
+        "valor": 2289.99,
+        "data_emissao": "2025-10-07"
+    },
+    {
+        "id": "NF-10",
+        "cliente": "Daniel Costa",
+        "valor": 1514.32,
+        "data_emissao": "2025-10-16"
+    }
+]
