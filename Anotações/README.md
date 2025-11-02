@@ -18,7 +18,7 @@ Aqui estão minhas anotações organizadas por tópicos abordados no bootcamp:
 
 📁 [Gerenciamento e Governança na AWS](./GerenciamentoEGovernanca/readme.md)
 
-📂 [Segurança na AWS]()
+📁 [Segurança na AWS](SegurancaAWS/readme.md)
 
 📂 [Desenvolvimento e Ferramenta]()
 
