@@ -20,7 +20,7 @@ Aqui estão minhas anotações organizadas por tópicos abordados no bootcamp:
 
 📁 [Segurança na AWS](SegurancaAWS/readme.md)
 
-📂 [Desenvolvimento e Ferramenta](DesenvolvimentoEFerramenta/readme.md)
+📁 [Desenvolvimento e Ferramenta](DesenvolvimentoEFerramenta/readme.md)
 
 📂 [Automação e DevOps na AWS]()
 
