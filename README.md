@@ -10,6 +10,9 @@
 ## 🚀 Sobre o Bootcamp  
 O programa aborda um amplo conjunto de **tecnologias e serviços AWS**, desde fundamentos até práticas avançadas de **DevOps e Automação**.  
 
+## 📝 Anotações  
+
+📎 [Clique aqui para acessar minhas anotações detalhadas](Anotações/README.md) sobre os principais tópicos e conceitos abordados em cada módulo do bootcamp.
 
 ## 📚 Lab Projects  
 
@@ -60,7 +63,3 @@ O programa aborda um amplo conjunto de **tecnologias e serviços AWS**, desde fu
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-
-## 📝 Anotações  
-
-📎 [Clique aqui para acessar minhas anotações detalhadas](Anotações/README.md) sobre os principais tópicos e conceitos abordados em cada módulo do bootcamp.

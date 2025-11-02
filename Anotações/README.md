@@ -16,7 +16,7 @@ Aqui estão minhas anotações organizadas por tópicos abordados no bootcamp:
 
 📁 [Serviços Intermediários e Avançados](./ServicosIntermediarios/readme.md)
 
-📂 [Gerenciamento e Governança na AWS](./GerenciamentoESeguranca/readme.md)
+📁 [Gerenciamento e Governança na AWS](./GerenciamentoEGovernanca/readme.md)
 
 📂 [Segurança na AWS]()
 
