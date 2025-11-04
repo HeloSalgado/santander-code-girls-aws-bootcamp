@@ -1,6 +1,5 @@
 ## 📝 Anotações  
 
-Aqui estão minhas anotações organizadas por tópicos abordados no bootcamp:  
 
 📁 [Introdução á AWS e conceitos básicos](./IntroducaoAWSEConceitosBasicos/readme.md)
 
@@ -22,8 +21,6 @@ Aqui estão minhas anotações organizadas por tópicos abordados no bootcamp:
 
 📁 [Desenvolvimento e Ferramenta](DesenvolvimentoEFerramenta/readme.md)
 
-📂 [Automação e DevOps na AWS]()
+📁 [Automação e DevOps na AWS](AutomacaoEDevOps/readme.md)
 
- ---
-✨ *Esse README é atualizado constantemente conforme novos módulos são concluídos.*  
 
